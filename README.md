@@ -30,4 +30,3 @@ I'm Daulet, a frontend developer and a student at [International Information Tec
 - I’m passionate about sports, especially **football**, **basketball**, and **boxing**.
 - I enjoy learning new technologies and finding creative solutions in development.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
