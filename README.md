@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**dzeyja/dzeyja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[Your Name]**, a frontend developer and a student at [Suleyman Demirel University](https://sdu.edu.kz).
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: React, Next.js, Redux Toolkit (including RTK Query), TypeScript
+- **Styling**: Sass, CSS Modules
+- **Tools**: Git, ESLint, Prettier
+
+## 🏆 Achievements
+
+- Sports achievements in **basketball** and **boxing** 🏀🥊
+- Successfully built a marketplace project using Next.js and Redux Toolkit
+
+## 📘 Education
+
+- Graduated from Zhanjugurov High School (2022)
+- Currently studying at Suleyman Demirel University
+
+## 🌱 I’m currently learning
+
+- Advanced Next.js features
+- AI integration in web applications
+
+## 📫 How to reach me
+
+- LinkedIn: [your profile](https://linkedin.com/in/your_profile)
+- Email: [your email](mailto:your_email@example.com)
+
+## ⚡ Fun facts
+
+- I’m passionate about sports, especially **football**, **basketball**, and **boxing**.
+- I enjoy learning new technologies and finding creative solutions in development.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
